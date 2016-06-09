@@ -2,12 +2,9 @@
   "name": "leader_board",
   "version": "1.0.0",
   "description": "Simple leaderboard api",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "server.js",
   "author": "",
-  "license": "ISC",
+  "license": "GNU3",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",

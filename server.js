@@ -15,3 +15,5 @@ app.use(bodyParser.json());
 app.use('/leaderBoard',leaderBoard);
 
 app.listen(port);
+
+module.exports = this;
